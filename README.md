@@ -1,4 +1,4 @@
-### Olá, meu nome é Matheus mas pode me chamar de Mefius
+### Olá
 
 Tenho 20 anos, sou Técnico em Informática, entusiasta do desenvolvimento front-end e das tecnologias Javascript - React.js e React Native.
 
