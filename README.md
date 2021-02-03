@@ -1,6 +1,6 @@
 ### Olá
 
-Tenho 20 anos, sou Técnico em Informática, entusiasta do desenvolvimento front-end e das tecnologias Javascript - React.js e React Native.
+Tenho 20 anos, sou Técnico em Informática, desenvolvedor Front-end e atualmente estou estudando as tecnologias Javascript - React.js e React Native.
 
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/mefhius)
 [<img src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" />](https://www.twitch.tv/mefhius)
