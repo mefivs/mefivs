@@ -1,8 +1,8 @@
 ### Olá / Hi
 ## 🇧🇷
-Tenho 20 anos, sou Técnico em Informática, desenvolvedor Front-end e atualmente estou estudando as tecnologias Javascript - React.js e React Native.
+Tenho 20 anos, sou Técnico em Informática, desenvolvedor Front-end e atualmente estou estudando as tecnologias Javascript - React Native e React.js.
 ## 🇺🇸
-I'm 20 years old, I'm a Computer Technician, Front-end Developer and actually I'm studying Javascript technologies - React.js and React Native.
+I'm 20 years old, I'm a Computer Technician, Front-end Developer and actually I'm studying Javascript technologies - React Native and React.js.
 
 ## Redes Sociais / Social Medias
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/mefhius)
