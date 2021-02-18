@@ -1,8 +1,8 @@
-### Olá / Hi
+### Olá
 
 Tenho 20 anos, sou Técnico em Informática, desenvolvedor Front-end e atualmente estou estudando visando me tornar um desenvolvedor Full-stack usando tecnologias javascript.
 
-## Redes Sociais / Social Medias
+## Redes Sociais
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/mefhius)
 [<img src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" />](https://www.twitch.tv/mefhius)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/mefhius)
