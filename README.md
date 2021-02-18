@@ -1,5 +1,5 @@
 ### Olá / Hi
-## 🇧🇷
+
 Tenho 20 anos, sou Técnico em Informática, desenvolvedor Front-end e atualmente estou estudando visando me tornar um desenvolvedor Full-stack usando tecnologias javascript.
 
 ## Redes Sociais / Social Medias
