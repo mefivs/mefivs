@@ -1,6 +1,6 @@
 ### Olá
 
-Tenho 22 anos, sou Técnico em Informática, desenvolvedor Front-end e atualmente estou estudando tecnologias javascript visando me tornar um desenvolvedor Full-stack.
+Tenho 23 anos, sou Técnico em Informática, desenvolvedor Front-end e atualmente estou estudando tecnologias javascript visando me tornar um desenvolvedor Full-stack.
 
 ## Redes Sociais
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/mefhius)
